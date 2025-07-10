@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hey there, I'm Kok Jia Yin! </h2>
 
-<p align="center">🎯 Software Engineering Student | 🧠 Problem Solver | 🚀 Tech Explorer  </p> 
+<p align="center"> <b> 🎯 Software Engineering Student | 🧠 Problem Solver | 🚀 Tech Explorer </b> </p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Code+Fun.+Build+Bold.;Always+Learning,+Always+Creating.&font=Fira%20Code&center=true&width=440&height=45&color=728FCE&vCenter=true" />
@@ -73,9 +73,9 @@ I'm a passionate software engineering student, blending **code, creativity**, an
   <a href="https://www.linkedin.com/in/jia-yin-kok-9767b528a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:jiayinkok@gmail.com" target="_blank">
+  <!-- <a href="mailto:jiayinkok@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a> -->
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome" height=50 style="border-radius:10px"/>
   </a>
