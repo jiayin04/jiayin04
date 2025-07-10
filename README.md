@@ -44,9 +44,9 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 ## 📦 Highlight Projects
 
-- 🏙️ **EcoCity** – AI + IoT flood/traffic smart city management system
-- 📊 **Retail Data Analysis** – Descriptive, diagnosis, predictive & prescriptive analysis in R 
-- 🧸 **Personal Portfolio** - React + NextJS
+- 🏙️ **EcoCity** – AI + IoT flood/traffic smart city management system <a href="https://ecocity-the-try-people.github.io/VHack-Ecocity/" target="_blank">(View More)</a>
+- 📊 **Retail Data Analysis** – Descriptive, diagnosis, predictive & prescriptive analysis in R <a href="https://github.com/jiayin04/Retail-PFDA" target="_blank">(View More)</a> 
+- 🧸 **Personal Portfolio** - React + NextJS <a href="https://yourwebsite.com" target="_blank">(View More)</a>
 <!-- - 📈 **Data Enquiry System** – Angular + SQL + SOAP API -->
 
 <br />
@@ -73,7 +73,6 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jia-yin-kok-9767b528a)
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jiayinkok@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome)](https://yourwebsite.com)
 
 </div>
 
