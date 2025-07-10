@@ -67,18 +67,14 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 <br />
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
 <div>
-  <a href="https://www.linkedin.com/in/jia-yin-kok-9767b528a" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:jiayinkok@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome" height=50 style="border-radius:10px"/>
-  </a>
+
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jia-yin-kok-9767b528a)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jiayinkok@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome)](https://yourwebsite.com)
+
 </div>
 
 
