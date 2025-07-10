@@ -19,7 +19,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,r,java,cs,cpp,dart,php" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" height=45 width=50 style="border-radius:10px;" />
 </p>
 
 ### Frameworks & Libraries
@@ -29,7 +29,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,mysql,firebase,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman" />
 </p>
 
 ### Others
@@ -37,6 +37,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
   <img src="https://img.shields.io/badge/Crystal%20Reports-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Radzen-EF5B25?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node--RED-BD2E2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MSSQL-BD2E2E?style=for-the-badge" />
 </p>
 
 <br />
@@ -60,7 +61,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jiayin04&theme=onedark&no-frame=true&margin-w=10&rank=SECRET,SSS,SS,S,B,A,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jiayin04&theme=onedark&no-frame=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,B,A,C" />
 </p>
 
 
@@ -68,7 +69,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/jia-yin-kok-9767b528a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
