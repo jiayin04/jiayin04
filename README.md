@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Code+Fun.+Build+Bold.;Always+Learning,+Always+Creating.&font=Fira%20Code&center=true&width=440&height=45&color=728FCE&vCenter=true" />
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -60,7 +59,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 
 
----
+<br />
 
 
 ## 🚀 Highlight Projects
