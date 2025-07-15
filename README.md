@@ -13,8 +13,6 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 <br />
 
----
-
 ## 🛠 Tech Stack & Tools
 
 ### Languages
@@ -58,9 +56,9 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 </p>
 
 
-
 <br />
 
+---
 
 ## 🚀 Highlight Projects
 
