@@ -84,7 +84,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jiayin04&theme=onedark&no-frame=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,B,A,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jiayin04&theme=onedark&no-frame=true&margin-w=10&column=5&rank=SECRET,SSS,SS,S,B,A,AA,C" />
 </p>
 
 
