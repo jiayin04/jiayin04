@@ -95,7 +95,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 <div align="center">
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jia-yin-kok-9767b528a)
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kokjy08@gmail.com)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kokjy04@gmail.com)
  <a href="https://jiayin-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-373a4d?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" height="45" style="border-radius:10px;" />
   </a>
