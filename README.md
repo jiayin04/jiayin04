@@ -23,12 +23,12 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind,dotnet,maven,vite,flutter" alt="Frameworks and libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind,dotnet,maven,vite,flutter,fastapi" alt="Frameworks and libraries" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman,docker" alt="Tools and platforms" />
 </p>
 
 ### Other Tools & Technologies
@@ -67,9 +67,9 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 | **🏙️ EcoCity**<br> | AI + IoT flood/traffic smart city management system | <div>![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![IoT](https://img.shields.io/badge/-IoT-FF6F00?logo=arduino)<br>![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)<br>![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet)</div> | [Demo](https://ecocity-the-try-people.github.io/VHack-Ecocity/) · [Code](https://github.com/ecocity-the-try-people) |
 | **🎟️ Event Buddy** | React frontend for event planning with AI crowd simulation model | <div>![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Python](https://img.shields.io/badge/-Python-3178C6?logo=python)<br>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss) ![YOLO](https://img.shields.io/badge/-YOLO-FF6600) ![Prophet](https://img.shields.io/badge/-Prophet-FFA500)<br></div> | [Live](https://eventbuddy.munymunyhom.tech/) · [Code](https://github.com/orgs/GreatAI-NeuBee/repositories) |
 | **🌙 Luna** | AI-powered cross-platform restaurant recommendation app | <div>![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) </div> | [Code](https://github.com/jiayin04/luna) |
-| **📊 Retail Analysis** | Group project with advanced retail analytics with descriptive, diagnostic, predictive & prescriptive analysis | ![R](https://img.shields.io/badge/-R-276DC3?logo=r) ![Shiny](https://img.shields.io/badge/-Shiny-0092FF?logo=rstudio) ![ggplot2](https://img.shields.io/badge/-ggplot2-1A62A3) | [Code](https://github.com/jiayin04/Retail-PFDA) |
-| **🧸 Personal Portfolio** | My portfolio with project showcases | <div>![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)<br>![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)<br>![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)</div> | [Live](https://jiayin-portfolio.vercel.app/) · [Code](https://github.com/jiayin04/jiayin-portfolio) |
 
+<!-- | **📊 Retail Analysis** | Group project with advanced retail analytics with descriptive, diagnostic, predictive & prescriptive analysis | ![R](https://img.shields.io/badge/-R-276DC3?logo=r) ![Shiny](https://img.shields.io/badge/-Shiny-0092FF?logo=rstudio) ![ggplot2](https://img.shields.io/badge/-ggplot2-1A62A3) | [Code](https://github.com/jiayin04/Retail-PFDA) |
+| **🧸 Personal Portfolio** | My portfolio with project showcases | <div>![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)<br>![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)<br>![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)</div> | [Live](https://jiayin-portfolio.vercel.app/) · [Code](https://github.com/jiayin04/jiayin-portfolio) | -->
 <!--
 | [📈 Data Enquiry System]() | Enterprise data query system with Angular frontend | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white) ![SOAP](https://img.shields.io/badge/-SOAP-8A4182) | - | -->
 
@@ -102,19 +102,3 @@ I'm a passionate software engineering student, blending **code, creativity**, an
     <img src="https://img.shields.io/badge/Portfolio-373a4d?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" height="45" style="border-radius:10px;" />
   </a>
 </div>
-
-
-<!--
-**jiayin04/jiayin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
