@@ -23,12 +23,12 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind,dotnet,maven,vite,flutter,fastapi" alt="Frameworks and libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind,dotnet,maven,vite,flutter,fastapi,spring,bootstrap" alt="Frameworks and libraries" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman,docker" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman,docker,appwrite" alt="Tools and platforms" />
 </p>
 
 ### Other Tools & Technologies
