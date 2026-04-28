@@ -19,16 +19,17 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,r,java,cs,cpp,dart,php" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" height=45 width=50 alt="SQL" style="border-radius:10px;" />
+  <img src="https://img.shields.io/badge/JSP-5EA9FF?style=for-the-badge&logoColor=white" height=45 width=50 alt="SQL" style="border-radius:10px;" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind,dotnet,maven,vite,flutter,fastapi,spring,bootstrap" alt="Frameworks and libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,tailwind,dotnet,maven,vite,flutter,fastapi,spring,bootstrap,jquery,hibernate" alt="Frameworks and libraries" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman,docker,appwrite" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,vercel,supabase,mysql,firebase,figma,postman,docker,appwrite" alt="Tools and platforms" />
 </p>
 
 ### Other Tools & Technologies
@@ -38,6 +39,7 @@ I'm a passionate software engineering student, blending **code, creativity**, an
   <!-- Database & SQL Tools -->
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL" title="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/SQL_Yog-678BFE?style=for-the-badge&logo=database&logoColor=white" alt="SQL Yog" title="SQL Yog" />
+  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-45AC4E?style=for-the-badge&logo=database&logoColor=white" alt="Oracle SQL Developer" title="Oracle SQL Developer" />
 
   <!-- Google & Automation -->
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" title="Google Apps Script" />
