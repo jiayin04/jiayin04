@@ -16,10 +16,8 @@ I'm a passionate software engineering student, blending **code, creativity**, an
 ## 🛠 Tech Stack & Tools
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,r,java,cs,cpp,dart,php" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" height=45 width=50 alt="SQL" style="border-radius:10px;" />
-  <img src="https://img.shields.io/badge/JSP-5EA9FF?style=for-the-badge&logoColor=white" height=45 width=50 alt="SQL" style="border-radius:10px;" />
+<p style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,r,java,cs,cpp,dart,php" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" height=45 width=50 alt="SQL" style="border-radius:10px;" /> <img src="https://img.shields.io/badge/JSP-5EA9FF?style=for-the-badge&logoColor=white" height=45 width=50 alt="SQL" style="border-radius:10px;" />
 </p>
 
 ### Frameworks & Libraries
